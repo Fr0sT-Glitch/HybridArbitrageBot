@@ -1,0 +1,10 @@
+{
+    "ethereum": {
+        "infura_url": "https://mainnet.infura.io/v3/YOUR_INFURA_API_KEY",
+        "contract_address": "0xYourDeployedContractAddress"
+    },
+    "trading": {
+        "min_profit_threshold": "1",
+        "gas_fee_limit": "0.005"
+    }
+}

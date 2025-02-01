@@ -1,0 +1,11 @@
+{
+    "name": "hybrid-arbitrage-bot",
+    "version": "1.0.0",
+    "description": "A flash loan arbitrage bot.",
+    "dependencies": {
+        "dotenv": "^16.0.0",
+        "ethers": "^5.7.0",
+        "hardhat": "^2.11.2",
+        "nodemailer": "^6.9.0"
+    }
+}
