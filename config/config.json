@@ -1,6 +1,6 @@
 {
     "ethereum": {
-        "infura_url": "https://mainnet.infura.io/v3/YOUR_INFURA_API_KEY",
+        "infura_url": "https://mainnet.infura.io/v3/2JZ0ND4kKcUR8GD9rgQtlvY8r1i",
         "contract_address": "0xYourDeployedContractAddress"
     },
     "trading": {
