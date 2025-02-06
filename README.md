@@ -8,7 +8,7 @@
 
 ## Installation
 ```sh
-npm install
+bun install
 pip install python-dotenv web3 requests
 ```
 
