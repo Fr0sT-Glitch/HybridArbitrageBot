@@ -171,23 +171,12 @@ The system includes several security measures:
 - Comprehensive input validation
 - Reentrancy protection
 
-## Monitoring
+## Deployment
 
-The system logs:
-- Successful trades
-- Profit/loss tracking
-- Gas usage
-- Error conditions
-
-Logs are stored in `arbitrage_earnings.db` and can be analyzed using the reporting scripts.
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit changes
-4. Push to the branch
-5. Create a Pull Request
+```bash
+npx hardhat compile
+npx hardhat run scripts/deploy.js --network mainnet
+```
 
 ## License
 
